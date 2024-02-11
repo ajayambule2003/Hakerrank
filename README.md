@@ -8,3 +8,5 @@ Haakerrank problem solution
 3] Java Output Formatting
 
 4] Java Date and Time
+
+5]Java 1D Array (Part 2)
