@@ -10,3 +10,5 @@ Haakerrank problem solution
 4] Java Date and Time
 
 5]Java 1D Array (Part 2)
+
+6] Java Substring
