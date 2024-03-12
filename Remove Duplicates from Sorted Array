@@ -14,7 +14,7 @@ class Solution {
                 curr = nums[i];
                 count++;
             }
-        }
+        } 
         return count;
     }
 }
