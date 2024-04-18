@@ -14,3 +14,5 @@ Haakerrank problem solution
 6] Java Substring
 
 7] Java Remove Duplicates from Sorted Array
+
+8] Java String to Minimize Its Value
