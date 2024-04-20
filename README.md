@@ -16,3 +16,5 @@ Haakerrank problem solution
 7] Java Remove Duplicates from Sorted Array
 
 8] Java String to Minimize Its Value
+
+9] Java Count Pairs Whose Sum is Less than Target
