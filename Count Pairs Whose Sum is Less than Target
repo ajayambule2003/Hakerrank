@@ -1,0 +1,17 @@
+class Solution {
+    public int countPairs(List<Integer> nums, int target) {
+        
+        int respuesta = 0;
+        int tamano = nums.size();
+ 
+        for (int i = 0; i < tamano ; i++) {
+            for (int j = i + 1; j < tamano; j++) {
+              
+                if (nums.get(i) + nums.get(j) < target) 
+                    respuesta++;
+            }
+        }
+
+        return respuesta;
+    }
+}
