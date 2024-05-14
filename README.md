@@ -18,3 +18,5 @@ Haakerrank problem solution
 8] Java String to Minimize Its Value
 
 9] Java Count Pairs Whose Sum is Less than Target
+
+10]Java 1-D Array
