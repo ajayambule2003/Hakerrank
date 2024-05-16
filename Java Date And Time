@@ -1,0 +1,22 @@
+import java.time.LocalDate;
+import java.util.Scanner;
+
+public class DayOfWeekFinder {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int month = scanner.nextInt();
+        int day = scanner.nextInt();
+        int year = scanner.nextInt();
+
+        String result = findDay(month, day, year);
+
+        System.out.println(result);
+        scanner.close();
+    }
+
+    static String findDay(int month, int day, int year) {
+        LocalDate localDate = LocalDate.of(year, month, day);
+        return localDate.getDayOfWeek().toString();
+    }
+}
