@@ -24,3 +24,5 @@ Haakerrank problem solution
 11]Java Date And Time
 
 12]Print in order
+
+13]Defanging an IP Address
