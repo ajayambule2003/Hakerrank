@@ -26,3 +26,5 @@ Haakerrank problem solution
 12]Print in order
 
 13]Defanging an IP Address
+
+14]Replace Question Marks in String to Minimize Its Value
