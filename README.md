@@ -3,7 +3,7 @@ Haakerrank problem solution
 
 1] Java Stdin and Stdout I
 
-2] Java Stdin and Stdout II
+2] Java Stdin and Stdout II 
 
 3] Java Output Formatting
 
