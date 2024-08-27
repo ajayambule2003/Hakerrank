@@ -8,7 +8,7 @@ public class Solution {
         int intValue = scanner.nextInt();
         double doubleValue = scanner.nextDouble();
         scanner.nextLine(); // Consume the newline character
-        String stringValue = scanner.nextLine();
+        String stringValue = scanner.nextLine(); 
  
         System.out.println("String: " + stringValue);
         System.out.println("Double: " + doubleValue);
