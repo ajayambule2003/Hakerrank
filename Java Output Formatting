@@ -10,7 +10,7 @@ System.out.println("================================");
             String language = scanner.next();
             int score = scanner.nextInt();
             System.out.printf("%-15s%03d%n", language, score);
-        }
+        } 
 System.out.println("================================");
  
         scanner.close();
