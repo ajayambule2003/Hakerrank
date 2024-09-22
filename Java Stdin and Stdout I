@@ -7,7 +7,7 @@ public class Solution {
         int a = scan.nextInt();
         int b =scan.nextInt();
         scan.nextLine();
-        String s = scan.nextLine();
+        String s = scan.nextLine(); 
 
         System.out.println(a);
         System.out.println(b);
