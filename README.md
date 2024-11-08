@@ -5,7 +5,7 @@ Haakerrank problem solution
 
 2] Java Stdin and Stdout II 
 
-3] Java Output Formatting
+3] Java Output Formatting 
 
 4] Java Date and Time
 
